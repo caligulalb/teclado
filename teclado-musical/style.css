@@ -11,7 +11,7 @@ body {
 }
 
 .oitava {
-    position: relative;
+    position: relative ;
     display: flex;
 }
 
@@ -23,7 +23,6 @@ body {
     border-radius: 0px 0px 5px 5px;
 }
 
-
 .preta {
     position: absolute;
     background-color: #000;
@@ -32,23 +31,22 @@ body {
     border-radius: 0px 0px 5px 5px;
 }
 
-
-[cs] {
-    left: 35px;
+[csharp] {
+    left: 35px
 }
-[ds] {
+[dsharp] {
     left: 85px;
 }
-[fs] {
-    left: 185px ;
+[fsharp] {
+    left: 185px;
 }
-[gs] {
+[gsharp]{
     left: 235px;
 }
-[as] {
+[asharp]{
     left: 285px;
 }
 
 .selecionada {
-    background-color: #070;
+    background-color: purple;
 }
